@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="Pascal_intro">Hi! My name is <font fgcolor='#00a52a'> Pascal</font>. I\'m currently in a foster home. I love<font fgcolor='#316bff'> blueberries </font>, cheese, and cuddling! I\'m looking for my furr-ever home. Will yours be the one?</string>
+    <string name="button_text">Adopt Me</string>
+</resources>
